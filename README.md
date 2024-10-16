@@ -3,6 +3,12 @@ Overview
 
 
 
+
+
+
+https://github.com/user-attachments/assets/25584bf4-55b6-46ba-90fb-2b4a78801cb3
+
+
 This project simulates a real-time data pipeline for ingesting, processing, and analyzing tweets using Apache Kafka, Apache Flink, Elasticsearch, and Kibana. The goal is to demonstrate how a data engineering pipeline can be used to process real-time tweet streams for analytics and visualization.
 
 The system integrates key technologies to build an end-to-end solution that ingests tweet data, processes it in real-time, stores it in Elasticsearch for fast retrieval, and visualizes key insights using Kibana.
